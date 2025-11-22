@@ -57,4 +57,4 @@ Which Maker principle resonates with me most?
 ## Contact | 联系方式
 
 - **GitHub**: [Andi-Wan](https://github.com/Andi-Wan)
-- **Email**: aw565
+- **Email**: aw565@duke.edu
