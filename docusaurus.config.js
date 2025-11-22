@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wow! Maker Journey',
+  title: 'Wow! Maker Jou',
   tagline: 'Everything Infinite ',
   favicon: 'img/favicon.ico',
 
